@@ -1,7 +1,7 @@
 # API_Intro
 An introduction to Json, Ajax and the Django Rest Framework.
 
-[![alt text](https://github.com/justdjango/Analytics_App/blob/master/api.png "Logo")](https://justdjango.com)
+[![alt text](https://github.com/justdjango/Analytics_App/blob/master/Django Rest Framework.png "Logo")](https://justdjango.com)
 
 # Where to find us
 Like us on [Facebook](https://www.facebook.com/justdjangocode/)
